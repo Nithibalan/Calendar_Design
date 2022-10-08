@@ -1,0 +1,10 @@
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\design\design\bin\Debug\design.exe.config
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\design\design\obj\Debug\design.csprojResolveAssemblyReference.cache
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\design\design\obj\Debug\design.Form1.resources
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\design\design\obj\Debug\design.Form2.resources
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\design\design\obj\Debug\design.Properties.Resources.resources
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\design\design\obj\Debug\design.csproj.GenerateResource.Cache
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\design\design\bin\Debug\design.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\design\design\bin\Debug\design.pdb
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\design\design\obj\Debug\design.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\design\design\obj\Debug\design.pdb
